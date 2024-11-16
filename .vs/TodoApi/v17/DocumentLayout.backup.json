@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\szuta\\source\\repos\\TodoApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{404D22F7-0FE0-484A-B22B-F67B35529CD8}|ToDoApi\\ToDoApi.csproj|c:\\users\\szuta\\source\\repos\\todoapi\\todoapi\\todoapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{404D22F7-0FE0-484A-B22B-F67B35529CD8}|ToDoApi\\ToDoApi.csproj|solutionrelative:todoapi\\todoapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{404D22F7-0FE0-484A-B22B-F67B35529CD8}|ToDoApi\\ToDoApi.csproj|c:\\users\\szuta\\source\\repos\\todoapi\\todoapi\\todohub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{404D22F7-0FE0-484A-B22B-F67B35529CD8}|ToDoApi\\ToDoApi.csproj|solutionrelative:todoapi\\todohub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{404D22F7-0FE0-484A-B22B-F67B35529CD8}|ToDoApi\\ToDoApi.csproj|c:\\users\\szuta\\source\\repos\\todoapi\\todoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{404D22F7-0FE0-484A-B22B-F67B35529CD8}|ToDoApi\\ToDoApi.csproj|solutionrelative:todoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ToDoApi.http",
+              "DocumentMoniker": "C:\\Users\\szuta\\source\\repos\\TodoApi\\TodoApi\\ToDoApi.http",
+              "RelativeDocumentMoniker": "TodoApi\\ToDoApi.http",
+              "ToolTip": "C:\\Users\\szuta\\source\\repos\\TodoApi\\TodoApi\\ToDoApi.http",
+              "RelativeToolTip": "TodoApi\\ToDoApi.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-11-15T17:21:00.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TodoHub.cs",
+              "DocumentMoniker": "C:\\Users\\szuta\\source\\repos\\TodoApi\\TodoApi\\TodoHub.cs",
+              "RelativeDocumentMoniker": "TodoApi\\TodoHub.cs",
+              "ToolTip": "C:\\Users\\szuta\\source\\repos\\TodoApi\\TodoApi\\TodoHub.cs",
+              "RelativeToolTip": "TodoApi\\TodoHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T16:51:08.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\szuta\\source\\repos\\TodoApi\\TodoApi\\Program.cs",
+              "RelativeDocumentMoniker": "TodoApi\\Program.cs",
+              "ToolTip": "C:\\Users\\szuta\\source\\repos\\TodoApi\\TodoApi\\Program.cs",
+              "RelativeToolTip": "TodoApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T19:44:49.859Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

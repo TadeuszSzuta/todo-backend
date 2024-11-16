@@ -1,0 +1,29 @@
+﻿@ToDoApi_HostAddress = http://localhost:7203
+
+GET {{ToDoApi_HostAddress}}/todoitems
+
+###
+
+POST {{ToDoApi_HostAddress}}/todoitems
+Content-Type: application/json
+
+{
+  "name":"fishing",
+  "isComplete":true
+}
+
+###
+@id = 36
+
+PUT {{ToDoApi_HostAddress}}/todoitems/{{id}}
+Content-Type: application/json
+
+{
+  "name":"zjeść kulki ziemniaczane",
+  "isComplete":true
+}
+
+###
+DELETE {{TodoApi_HostAddress}}/todoitems/{{id}}
+
+###
